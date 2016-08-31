@@ -41,6 +41,10 @@ import:
     version: v1.2.2
     repo:    https://github.com/aws/aws-sdk-go
 
+### Unity
+  - package: github.com/jealous/gounity
+    ref:     b8f7d44906457eac79fd44a1aed6a1de09161eef
+    repo:    https://github.com/jealous/gounity
 
 ################################################################################
 ##                             Build System Tools                             ##
